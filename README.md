@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Rocha Da Silva</h1>
+<h1 align="center">Hi people <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Rocha Da Silva</h1>
 <h3 align="center">My name is Thiago Rocha Da Silva and i'm learning programming, my goal is to be a front end developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="thiagorochadasilva" /> </p>
 
