@@ -10,14 +10,14 @@
 - 📫 How to reach me **thiago_rdspg@hotmail.com**
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thiago-rocha-da-silva-03bb7627/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="thiagorochadasilva" height="20" width="20" /></a>
-<a href="https://www.facebook.com/thiago.rdspg" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/145/145802.png" alt="thiagorochadasilva" height="20" width="20" /></a>
-<a href="https://www.instagram.com/thiago.rdspg/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="thiagorochadasilva" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/thiago-rocha-da-silva-03bb7627/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="thiagorochadasilva" height="20" width="20" /></a>
+<a href="https://www.facebook.com/thiago.rdspg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/800px-Facebook_logo_%28square%29.png" alt="thiagorochadasilva" height="20" width="20" /></a>
+<a href="https://www.instagram.com/thiago.rdspg/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="thiagorochadasilva" height="20" width="20" /></a>
 </p>
 
-<h1 align="center">This is my family <img src="https://img-premium.flaticon.com/png/512/3097/premium/3097951.png?token=exp=1629486688~hmac=3d5467fa5a90259f8f34028acc322e77" width="30px"> My Life! <img src="https://img-premium.flaticon.com/png/512/1806/premium/1806380.png?token=exp=1629486650~hmac=7045b8232d09c3561db030090e22f257" width="30px"></h1>
+<h1 align="center">This is my family <img src=https://www.instagram.com/p/CQCiqCgDY6asvRyVDmry8inKmOKPsHcc1tjRBQ0/" width="30px"> My Life! <img src="https://www.instagram.com/p/CQCgk1Qj61QtFMMtuiOPB8oNd4Wu8jro0WSxnA0/" width="30px"></h1>
 <p align="center">
-  <a href="My Family" target="blank"><img align="center" src="https://scontent.fcgh15-1.fna.fbcdn.net/v/t1.6435-9/189185970_10218613039429511_4982779950159266935_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=A2nXopnib1IAX-2UyPa&tn=KDWNO9m9lrEPspbH&_nc_ht=scontent.fcgh15-1.fna&oh=4f22f6aa9ffbc9e9caa01c1c02e945dc&oe=6144B052" alt="thiagorochadasilva" height="500" width="500" /></a>
+  <a href="My Family" target="blank"><img align="center" src="https://www.instagram.com/p/CQCg8gvDynLdSTUi8d_lKK-WClZcA1Ok4k6XYE0/" alt="thiagorochadasilva" height="500" width="500" /></a>
 </p>
 
 <!--
