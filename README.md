@@ -1,4 +1,4 @@
-<h1 align="center">Hi people <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">, I'm Thiago Rocha Da Silva</h1>
+<h1 align="center">Hi people <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30px">, I'm Thiago Rocha Da Silva</h1>
 <h3 align="center">I'm learning programming, my goal is to be a front end developer.</h3>
 
 - 🔭 I’m currently working on [Stefanini](https://stefanini.com/pt-br)
