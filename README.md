@@ -1,7 +1,7 @@
-<h1 align="center">Hi people <img src="https://greenpng.com/wp-content/uploads/2021/03/publicdomainq-0053751uinyaw-190x300.png" width="30px">, I'm Thiago Rocha Da Silva</h1>
-<h3 align="center">I'm learning programming, my goal is to be a front end developer.</h3>
+<h1 align="center">Hi people <img src="https://greenpng.com/wp-content/uploads/2021/03/publicdomainq-0053751uinyaw-190x300.png" width="30px">, My name is Thiago Rocha da Silva</h1>
+<h3 align="center">I'm learning some other programming languages, currently I work as an RPA systems analyst.</h3>
 
-- 🔭 I’m currently working on [Stefanini](https://stefanini.com/pt-br)
+- 🔭 I’m currently working on [Stefanini](https://stefanini.com/pt-br) as an RPA Systems Analyst.
 
 - 🌱 I’m currently learning JAVASCRIPT, CSS, HTML, NODE, REACT, GIT and HYPER.
 
