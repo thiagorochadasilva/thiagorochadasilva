@@ -1,4 +1,4 @@
-<h1 align="center">Hi people <img src="http://imagenspng.com/wp-content/uploads/joinha-png-youtube-Fotos-png-gratis.png" width="2px">, I'm Thiago Rocha Da Silva</h1>
+<h1 align="center">Hi people <img src="http://imagenspng.com/wp-content/uploads/joinha-png-youtube-Fotos-png-gratis.png" width="30px">, I'm Thiago Rocha Da Silva</h1>
 <h3 align="center">I'm learning programming, my goal is to be a front end developer.</h3>
 
 - 🔭 I’m currently working on [Stefanini](https://stefanini.com/pt-br)
