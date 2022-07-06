@@ -1,4 +1,4 @@
-<h1 align="center">Hi people <img src="https://flyclipart.com/thumb2/hangloose-freetoedit-846082.png" width="30px">, I'm Thiago Rocha Da Silva</h1>
+<h1 align="center">Hi people <img src="https://flyclipart.com/thumb2/hangloose-cool-hand-art-freetoedit-846081.png" width="30px">, I'm Thiago Rocha Da Silva</h1>
 <h3 align="center">I'm learning programming, my goal is to be a front end developer.</h3>
 
 - 🔭 I’m currently working on [Stefanini](https://stefanini.com/pt-br)
